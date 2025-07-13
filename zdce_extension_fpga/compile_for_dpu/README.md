@@ -7,7 +7,7 @@
 
 ## Prerequisites:
 
-![Requirements](https://github.com/Ashok-19/zerodce_extension_FPGA/blob/774385801b62efd721d7b1eb4cbe51f2512aedd0/screenshots/Vitis_prerequisites.png)
+![Requirements](https://github.com/Ashok-19/ZeroDCE_extension_DPU/blob/70c7689114145fb09ce5d1e19789d7e46756f055/screenshots/Vitis_prerequisites.png)
 
 It is recommended to use ubuntu 22.04 as CentOS versions already reached its EndOfLife.
 

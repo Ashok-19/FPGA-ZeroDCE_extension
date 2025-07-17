@@ -28,7 +28,7 @@ Original [ZeroDCE++](https://github.com/Li-Chongyi/Zero-DCE_extension.git) model
         torch.pow(x, 2) = torch.mul(x, x)
 
 
-![Tanh_approximation](https://github.com/Ashok-19/ZeroDCE_extension_DPU/blob/bdfb515a0c60ec21acb895896cf4c9fd1dbdad7f/screenshots/tanh_approx.png)
+<!--[Tanh_approximation](https://github.com/Ashok-19/ZeroDCE_extension_DPU/blob/bdfb515a0c60ec21acb895896cf4c9fd1dbdad7f/screenshots/tanh_approx.png)-->
 
 ### Power Approximation
 

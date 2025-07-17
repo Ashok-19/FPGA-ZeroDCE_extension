@@ -59,12 +59,12 @@ In Vitis-AI, you cannot leverage **torch.mul(x,2)** to perform the same as **tor
 
 ## Training the model
 
-Refer [readme_train_test](https://github.com/Ashok-19/zerodce_extension_FPGA/blob/dfde5eec19556ce0ee52162b31928902e4a39a33/zdce_extension_fpga/train_test_host/README.md)
+Refer [readme_train_test](https://github.com/Ashok-19/ZeroDCE_extension_DPU/blob/b996d588f07fdd8e43bed78a78efef3a95faeb03/zdce_extension_fpga/train_test_host/README.md)
 
 
 ## Vitis AI Workflow
 
-Refer [readme_compile_for_dpu](https://github.com/Ashok-19/zerodce_extension_FPGA/blob/dfde5eec19556ce0ee52162b31928902e4a39a33/zdce_extension_fpga/compile_for_dpu/README.md)
+Refer [readme_compile_for_dpu](https://github.com/Ashok-19/ZeroDCE_extension_DPU/blob/b996d588f07fdd8e43bed78a78efef3a95faeb03/zdce_extension_fpga/compile_for_dpu/README.md)
     
 
 

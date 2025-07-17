@@ -1,5 +1,5 @@
 
-# ZeroDCE++ FPGA
+# FPGA-ZeroDCE++
 
 Porting image enhancement model ZeroDCE++ on DPU accelerated FPGA devices such as Kria KV260, Zynq Ultrascale boards, Versal boards with help of Vitis-AI.
 

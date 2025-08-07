@@ -69,6 +69,11 @@ Refer [readme_train_test](https://github.com/Ashok-19/ZeroDCE_extension_DPU/blob
 ## Vitis AI Workflow
 
 Refer [readme_compile_for_dpu](https://github.com/Ashok-19/ZeroDCE_extension_DPU/blob/b996d588f07fdd8e43bed78a78efef3a95faeb03/zdce_extension_fpga/compile_for_dpu/README.md)
+
+
+## Results
+
+[Result](https://github.com/Ashok-19/FPGA-ZeroDCE_extension/blob/8180de8e4b4b2c83eab79d6e43b2ecc813a3ff22/results/image.png)
     
 
 

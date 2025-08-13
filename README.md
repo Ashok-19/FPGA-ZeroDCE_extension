@@ -36,7 +36,7 @@ Original [ZeroDCE++](https://github.com/Li-Chongyi/Zero-DCE_extension.git) model
 
 ### Power Approximation
 
-In Vitis-AI, you cannot leverage **torch.mul(x,2)** to perform the same as **torch.pow(x,2)**. So two options were there to calculate **x**2**.
+In Vitis-AI, you cannot leverage **torch.mul(x,2)** to perform the same as **torch.pow(x,2)**. So two options were there to calculate **x^2**.
 	* Registering torch.pow() as a custom operator but it'll execute on CPU which defeats the whole purpose of porting the model.
  	* Approximating x**2. 
 
